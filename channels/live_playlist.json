@@ -1,0 +1,47 @@
+[
+    {
+        "num": 0,
+        "name": "A&E",
+        "stream_type": "live",
+        "stream_id": 0,
+        "stream_icon": "http:\/\/schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com\/stationLogos\/s51529_dark_360w_270h.png",
+        "epg_channel_id": "AandE(East).us",
+        "added": 1702901417,
+        "category_id": 200,
+        "custom_sid": "",
+        "tv_archive": 0,
+        "direct_source": "http:\/\/192.168.100.24\/topnew\/live_play.php?streamId=0",
+        "tv_archive_duration": 0,
+        "video_url": "DaddyLive|https:\/\/cf.khfullhdcdn03.lol\/hls/2Ufa9256e3EO73A\/playlist.m3u8|Referer=\"https:\/\/khfullhd.net\/\""
+    },
+    {
+        "num": 1,
+        "name": "Sky Atlantic",
+        "stream_type": "live",
+        "stream_id": 344,
+        "stream_icon": "https:\/\/upload.wikimedia.org\/wikipedia\/commons\/thumb\/1\/18\/Sky_Atlantic_-_Logo_2020.svg\/2560px-Sky_Atlantic_-_Logo_2020.svg.png",
+        "epg_channel_id": "SkyAtlantic.uk",
+        "added": 1702901417,
+        "category_id": 204,
+        "custom_sid": "",
+        "tv_archive": 0,
+        "direct_source": "http:\/\/192.168.100.24\/topnew\/live_play.php?streamId=344",
+        "tv_archive_duration": 0,
+        "video_url": "DaddyLive|https:\/\/webudit.webhd.ru\/lb\/premium362\/index.m3u8|Referer=\"https:\/\/weblivehdplay.ru\/\""
+    },
+    {
+        "num": 2,
+        "name": "what",
+        "stream_type": "live",
+        "stream_id": 0,
+        "stream_icon": "http:\/\/schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com\/stationLogos\/s51529_dark_360w_270h.png",
+        "epg_channel_id": "AandE(East).us",
+        "added": 1702901417,
+        "category_id": 200,
+        "custom_sid": "",
+        "tv_archive": 0,
+        "direct_source": "http:\/\/192.168.100.24\/topnew\/live_play.php?streamId=0",
+        "tv_archive_duration": 0,
+        "video_url": "DaddyLive|https:\/\/hls06.videodelivery.shop\/hls06\/The-Last-Immortal-Ep10\/index.m3u8|Referer=\"https:\/\/kisskh.co\/\""
+    }
+]
